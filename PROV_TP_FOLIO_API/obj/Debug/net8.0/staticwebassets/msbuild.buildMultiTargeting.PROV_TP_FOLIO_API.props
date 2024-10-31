@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PROV_TP_FOLIO_API.props" />
+</Project>

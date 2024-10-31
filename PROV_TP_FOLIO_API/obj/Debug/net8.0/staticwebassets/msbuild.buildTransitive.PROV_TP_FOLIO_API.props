@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PROV_TP_FOLIO_API.props" />
+</Project>

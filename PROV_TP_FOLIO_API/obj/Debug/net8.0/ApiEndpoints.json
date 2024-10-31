@@ -1,0 +1,99 @@
+[
+  {
+    "ContainingType": "PROV_TP_FOLIO_API.Controllers.ProvTpFolioController",
+    "Method": "Get",
+    "RelativePath": "api/ProvTpFolio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PROV_TP_FOLIO_API.Controllers.ProvTpFolioController",
+    "Method": "Post",
+    "RelativePath": "api/ProvTpFolio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "folio",
+        "Type": "PROV_TP_FOLIO_API.Models.ProvTpFolio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PROV_TP_FOLIO_API.Controllers.ProvTpFolioController",
+    "Method": "Get",
+    "RelativePath": "api/ProvTpFolio/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PROV_TP_FOLIO_API.Controllers.ProvTpFolioController",
+    "Method": "Put",
+    "RelativePath": "api/ProvTpFolio/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "folio",
+        "Type": "PROV_TP_FOLIO_API.Models.ProvTpFolio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PROV_TP_FOLIO_API.Controllers.ProvTpFolioController",
+    "Method": "Delete",
+    "RelativePath": "api/ProvTpFolio/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

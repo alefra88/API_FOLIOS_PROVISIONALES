@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|d:\\apitest_entrevista_tecnica\\prov_tp_folio_api\\prov_tp_folio_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|solutionrelative:prov_tp_folio_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|d:\\apitest_entrevista_tecnica\\prov_tp_folio_api\\prov_tp_folio_api\\config\\imp\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|solutionrelative:prov_tp_folio_api\\config\\imp\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|d:\\apitest_entrevista_tecnica\\prov_tp_folio_api\\prov_tp_folio_api\\config\\interfaces\\idbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|solutionrelative:prov_tp_folio_api\\config\\interfaces\\idbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|d:\\apitest_entrevista_tecnica\\prov_tp_folio_api\\prov_tp_folio_api\\repositories\\imp\\provtpfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|solutionrelative:prov_tp_folio_api\\repositories\\imp\\provtpfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|d:\\apitest_entrevista_tecnica\\prov_tp_folio_api\\prov_tp_folio_api\\services\\imp\\provtpfolioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|solutionrelative:prov_tp_folio_api\\services\\imp\\provtpfolioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|d:\\apitest_entrevista_tecnica\\prov_tp_folio_api\\prov_tp_folio_api\\controllers\\provtpfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|solutionrelative:prov_tp_folio_api\\controllers\\provtpfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|d:\\apitest_entrevista_tecnica\\prov_tp_folio_api\\prov_tp_folio_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|solutionrelative:prov_tp_folio_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|d:\\apitest_entrevista_tecnica\\prov_tp_folio_api\\prov_tp_folio_api\\services\\interfaces\\iprovtpfolioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C59741-64E5-4FBE-BF82-458BBBD6182F}|PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API.csproj|solutionrelative:prov_tp_folio_api\\services\\interfaces\\iprovtpfolioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\appsettings.json",
+              "RelativeDocumentMoniker": "PROV_TP_FOLIO_API\\appsettings.json",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\appsettings.json",
+              "RelativeToolTip": "PROV_TP_FOLIO_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T03:07:33.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\config\\Imp\\DbConnection.cs",
+              "RelativeDocumentMoniker": "PROV_TP_FOLIO_API\\config\\Imp\\DbConnection.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\config\\Imp\\DbConnection.cs",
+              "RelativeToolTip": "PROV_TP_FOLIO_API\\config\\Imp\\DbConnection.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:06:38.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDbCon.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\config\\Interfaces\\IDbCon.cs",
+              "RelativeDocumentMoniker": "PROV_TP_FOLIO_API\\config\\Interfaces\\IDbCon.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\config\\Interfaces\\IDbCon.cs",
+              "RelativeToolTip": "PROV_TP_FOLIO_API\\config\\Interfaces\\IDbCon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:05:25.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProvTpFolioController.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\Controllers\\ProvTpFolioController.cs",
+              "RelativeDocumentMoniker": "PROV_TP_FOLIO_API\\Controllers\\ProvTpFolioController.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\Controllers\\ProvTpFolioController.cs",
+              "RelativeToolTip": "PROV_TP_FOLIO_API\\Controllers\\ProvTpFolioController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:49:04.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProvTpFolioRepository.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\Repositories\\Imp\\ProvTpFolioRepository.cs",
+              "RelativeDocumentMoniker": "PROV_TP_FOLIO_API\\Repositories\\Imp\\ProvTpFolioRepository.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\Repositories\\Imp\\ProvTpFolioRepository.cs",
+              "RelativeToolTip": "PROV_TP_FOLIO_API\\Repositories\\Imp\\ProvTpFolioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:08:34.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProvTpFolioService.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\Services\\Imp\\ProvTpFolioService.cs",
+              "RelativeDocumentMoniker": "PROV_TP_FOLIO_API\\Services\\Imp\\ProvTpFolioService.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\Services\\Imp\\ProvTpFolioService.cs",
+              "RelativeToolTip": "PROV_TP_FOLIO_API\\Services\\Imp\\ProvTpFolioService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:52:36.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProvTpFolioService.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\Services\\Interfaces\\IProvTpFolioService.cs",
+              "RelativeDocumentMoniker": "PROV_TP_FOLIO_API\\Services\\Interfaces\\IProvTpFolioService.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\Services\\Interfaces\\IProvTpFolioService.cs",
+              "RelativeToolTip": "PROV_TP_FOLIO_API\\Services\\Interfaces\\IProvTpFolioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:52:42.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\Program.cs",
+              "RelativeDocumentMoniker": "PROV_TP_FOLIO_API\\Program.cs",
+              "ToolTip": "D:\\APITEST_ENTREVISTA_TECNICA\\PROV_TP_FOLIO_API\\PROV_TP_FOLIO_API\\Program.cs",
+              "RelativeToolTip": "PROV_TP_FOLIO_API\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:26:10.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
